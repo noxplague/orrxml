@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <record>
+    	<title>OneNote for iOS 2.2.1 - iPhone update</title>
+    	<description>Three updates:
+			First, It makes OneNote for iPhone a standalone experience with the ability to create new notebooks and sections. This means that you can now create a notebook, share it with others, and get on the same page - all from the convenience of an iPhone. 
+			Second, It dramatically improves the look and feel of OneNote on iOS 7 making note taking and navigation of your notes much more fluid and efficient.
+			Third, we've added Office Lens to OneNote for iPhone. Similar to Office Lens on OneNote for iPad, this popular feature turns your iPhone into a pocket scanner so you can use it to take pictures of things like receipts, or whiteboard notes. Then, with Office Lens you can trim, enhance and makes pictures more readable. Best thing is, images are automatically synced to OneNote, and if your picture includes printed text, OneNote can recognize the text with optical character recognition (OCR) so you can search for words in the image.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID>ZA104344404</imageID>
+    </record>
+    <record>
+    	<title>Power Map now available to Office 365 subscriptions that include Excel</title>
+    	<description>Power Map for Excel is now available for all Office 365 subscriptions that include Excel.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Enable Application Selection administration settings - Updates to the Office Deployment Tool for Click-to-Run</title>
+    	<description>Office 365 ProPlus provides thousands of configuration options via Group Policy and the Office Deployment Tool for Click-to-Run. Now administrators have the ability to exclude applications from the Office 365 ProPlus suite, such as Access or InfoPath. Updates to the Office Deployment Tool for Click-to-Run will enable administrators performing push deployments of Office 365 ProPlus to exclude one or more applications during the initial Office installation, or add/remove applications to an existing installation.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Generic Top Level Domains administration settings</title>
+    	<description>Generic Top Level Domains (gTLD) can now be added directly from your Office 365 Admin Center.  Over 1,300 new gTLDs are now supported.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Power View forecasting capabilities in Power BI for Office 365</title>
+    	<description>In Power View, you can now apply predictive forecasting, and hindcasting, when visualizing and exploring your data. Forecasting in Power View utilizes built-in predictive forecasting models using exponential smoothing to automatically detect seasonality in the data to provide forecast results from a series of data. Explore forecast results by adjusting the desired confidence interval or by adjusting outlier data to see how they affect results. You can also hindcast to see how Power View would have predicted the present and recent past based on older data.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Sign-In Page Branding for Office 365</title>
+    	<description>The Office 365 sign-in page can be branded with the additional purchase of Microsoft Azure AD Premium subscription. This subscription includes Company Branding which can be used to customize the sign-in page for all applications including Office 365, and also the Azure Management portal and the Azure Access Panel page.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>DirSync tool with password hash sync as backup for Federated Sign-in</title>
+    	<description>Office 365 customers who use federated sign-in can now use DirSync with password hash sync as a backup in case there is a failure with any part of the on-premises identity provider. In case of failure you can reconfigure the Azure AD tenant from federated to standard in a matter of hours to enable sign-in. More details are at http://social.technet.microsoft.com/wiki/contents/articles/17857.aad-sync-how-to-switch-from-single-sign-on-to-password-sync.aspx</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>End User Access to Quarantine for Exchange Online Protection</title>
+    	<description>End users can access their quarantined messages directly and release messages to their inbox. Previously, only admins had this capability.</description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Match Subdomains in Exchange Online Protection</title>
+    	<description>The match subdomains feature enables you to send and receive emails on subdomains of a provisioned domain (aka Accepted Domain) in Office 365. </description>
+    	<category>launched</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>MAPI over HTTP for Outlook 2013 and Exchange Online</title>
+    	<description>MAPI over HTTP is a new transport used to connect Outlook and Exchange. It is the long term replacement for RPC over HTTP connectivity (commonly referred to as Outlook Anywhere). MAPI/HTTP removes the complexity of Outlook Anywhere’s dependency on the legacy RPC technology.</description>
+    	<category>ROLLINGOUT</category>
+    	<linkID></linkID>
+    	<imageID>ZA104344404</imageID>
+    </record>
+    <record>
+    	<title>Proactive DNS Records Check administration settings</title>
+    	<description>Customer DNS records are now automatically checked for potential issues.  If potential issues are identified, admins are notified and actions are proposed.  Subscribers with GoDaddy hosted domains have the option to have Office 365 automatically update the DNS records.  For all other DNS hosts, admins will be provided with the correct DNS records and instructions on how to correct them.  A confirmation screen will notify the admins once all issues are corrected.  If custom DNS records are used in the tenant, admins are provided with the option to turn off the DNS records check to eliminate the error notifications.</description>
+    	<category>ROLLINGOUT</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>External Sharing administration settings</title>
+    	<description>External collaboration settings have been consolidated into one place in the Office 365 Admin Center for admins to enable the access of their SharePoint sites and Exchange calendars with external organizations. In addition, admins can also enable their users to communicate with people outside of their organization using Lync.</description>
+    	<category>ROLLINGOUT</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>OS and Browser User Reports for Office 365</title>
+    	<description>Know which devices and browsers your users are using.  The operating system and browser reports provide you with summary and user access views of the types of operating systems and browsers accessing your Office 365 environment.</description>
+    	<category>ROLLINGOUT</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Video for Office 365</title>
+    	<description>Video for Office 365 is a secure, company-wide destination for video upload, sharing and discovery, and smooth playback across devices - all powered by Windows Azure Media Services.</description>
+    	<category>inprogress</category>
+    	<linkID></linkID>
+    	<imageID>ZA104344404</imageID>
+    </record>
+    <record>
+    	<title>User &amp; Groups in Exchange Online Protection</title>
+    	<description>EOP standard and Exchange Enterprise CAL with Services subscribers can now directly manage recipients from within the Exchange admin center (EAC). This includes the ability to add, edit, or delete mail-enabled users (mail recipients who are internal to the organization) from the EAC and the ability to use mail enabled users as part of filtering policies and rules.</description>
+    	<category>inprogress</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Data Loss Prevention (DLP) in SharePoint Online</title>
+    	<description>As part of our continuous investments with DLP in SharePoint, we are adding the capability to identify sensitive data stored in SharePoint content libraries. With this capability, you will be able to perform eDiscovery searches for sensitive content in these SharePoint libraries. Sensitive content detections will be stamped/available in the FAST index for query and integration with search and classification results can be easily exported.</description>
+    	<category>inprogress</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>OWA for Android Phone</title>
+    	<description>A native mobile app on Android phones that offers the same email, calendar and contact functionality you get in Outlook Web App, but with additional capabilities that are only possible through native integration of the app with the device.</description>
+    	<category>inprogress</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Canceled Feature</title>
+    	<description>Lorem ipsum this feature was canceled.</description>
+    	<category>CANCELED</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+    <record>
+    	<title>Previously released feature</title>
+    	<description>Lorem ipsum this feature was previously released.</description>
+    	<category>PREVIOUSRELEASES</category>
+    	<linkID></linkID>
+    	<imageID></imageID>
+    </record>
+</data-set>

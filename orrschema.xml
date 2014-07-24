@@ -1,0 +1,101 @@
+<root>
+  <categories>
+    <id>[Code identifier of section (possible values: launched/rollingout/inprogress/canceled/previousreleases)]</id>
+    <title>[Display Name (e.g. Launched, Rolling Out, In Development, Cancelled)]</title>
+    <text>[Description text for category (e.g. Fully released features to Office 365 generally available for all applicable customers)]</text>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+  </categories>
+  <categories>
+    <id>[Code identifier of section (possible values: launched/rollingout/inprogress/canceled/previousreleases)]</id>
+    <title>[Display Name (e.g. Launched, Rolling Out, In Development, Cancelled)]</title>
+    <text>[Description text for category (e.g. Fully released features to Office 365 generally available for all applicable customers)]</text>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+  </categories>
+  <categories>
+    <id>[Code identifier of section (possible values: launched/rollingout/inprogress/canceled/previousreleases)]</id>
+    <title>[Display Name (e.g. Launched, Rolling Out, In Development, Cancelled)]</title>
+    <text>[Description text for category (e.g. Fully released features to Office 365 generally available for all applicable customers)]</text>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+    <items>
+      <title>[Title of item (e.g. Sync to the cloud)]</title>
+      <text>[Text description of item]</text>
+      <image>[OCMS AssetID of image to display with item. Blank if no picture]</image>
+      <image-alt>[Alt text description of image (required for accessibility)]</image-alt>
+      <link>[OCMS AssetID of external link for “Learn More.” Link at end of description text. If blank no “Learn More” link will be displayed.]</link>
+    </items>
+  </categories>
+</root>
