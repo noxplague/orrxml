@@ -1,0 +1,851 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<data-set xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <record>
+    <title>Apps for Office for Excel Online</title>
+    <description>Excel Online will support adding Apps for Office similar to the Excel desktop client.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Apps for Office formatting APIs for Excel Online</title>
+    <description>This feature allows Apps for Office that are opened used in Excel Online APIs to take advantage of the Format.js APIs that are already present in the desktop client capabilities.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Azure Active Directory Connect Preview</title>
+    <description>In the Beta release, the AAD Connect wizard provides a guided experience for integrating a single Active Directory forest with Windows Azure Active Directory.  In upcoming versions, we plan support multi-forest scenarios. </description>
+    <category>launched</category>
+    <linkID>XT104381196</linkID>
+    <imageID>ZA104381855</imageID>
+  </record>
+  <record>
+    <title>Customizable SharePoint Online navigation bar</title>
+    <description>A new SharePoint Online admin center feature that allows admins the ability to show or hide "Newsfeed/Yammer," "Sites" and "OneDrive for Business" for their users' Office 365 navigation bar experience.</description>
+    <category>launched</category>
+    <linkID>XT104358101</linkID>
+    <imageID>ZA104358122</imageID>
+  </record>
+  <record>
+    <title>Data entry and navigation improvements for Excel for iPad</title>
+    <description>Improved data entry and navigation for Excel for iPad, using both the hardware and formula keyboard with support for edit, enter, and point modes.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381871</imageID>
+  </record>
+  <record>
+    <title>Data Loss Prevention (DLP) in SharePoint Online</title>
+    <description>Data loss prevention for SharePoint Online will help to identify sensitive data stored in SharePoint content libraries. With this capability, you will be able to perform eDiscovery searches for sensitive content in these SharePoint libraries. Sensitive content detections will be stamped/available in the FAST index for query and integration with search and classification results can be easily exported.</description>
+    <category>launched</category>
+    <linkID>XT104381198</linkID>
+    <imageID>ZA104358183</imageID>
+  </record>
+  <record>
+    <title>Email Reminders for Meetings in Outlook Web App</title>
+    <description>The ability to set-up automatic email reminders for meetings and other calendar events in Outlook Web App.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID>ZA104381870</imageID>
+  </record>
+  <record>
+    <title>Enhanced mail protection reporting</title>
+    <description>Mail protection reports will include a more interactive reporting experience for Exchange Online and Exchange Online Protection admins. For e.g. when you click a report link, a new window opens and displays an interactive chart with summary level information. In addition, When you click a point on any report chart that is older than 7 days, a link to request an extended detailed report appears. When you create an extended report from a chart, you can specify the information you want and whether you want to be notified when the report is completed. You can further view the status of your extended report requests on the pending or completed queries page.</description>
+    <category>launched</category>
+    <linkID>XT104358083</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>First-run improvements on Office for iPad</title>
+    <description>When a customer first downloads and begins to use Office for iPad there will be more prompts to guide them along their first run experience.</description>
+    <category>launched</category>
+    <linkID>XT104381201</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Format Background in PowerPoint Online</title>
+    <description>
+      With Format Background you can choose to change your slide background to a solid color or
+      to a picture that is saved on your computer. After you format the
+      background of your slide, you can use the Apply to All option to apply the background of the current slide to all the other slides in your presentation.
+    </description>
+    <category>launched</category>
+    <linkID>XT104381207</linkID>
+    <imageID>ZA104381903</imageID>
+  </record>
+  <record>
+    <title>Improvements to Yammer mobile app profile viewing and editing</title>
+    <description>We are streamlining mobile app profile viewing and editing in our Yammer apps, including Android, iPad and iPhone. The revamped experience is consistent across devices, while maintaining platform-specific characteristics to make it a natural experience in each mobile OS.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID>ZA104381911</imageID>
+  </record>
+  <record>
+    <title>JSON Light support</title>
+    <description>JSON Light is a new MSOData serialization format that minimizes the metadata, and therefore total bytes, sent in a response to SharePoint's REST services.  This is based on the OData 3 standard.</description>
+    <category>launched</category>
+    <linkID>XT104381238</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Lync Mobile Gallery View for iOS</title>
+    <description>Lync Mobile brings Gallery View to the iPad for you to enjoy the full Lync Meeting experience while conferencing with more than one person.  The Gallery View supports up to four live video streams and can be seen both in landscape and portrait orientation.</description>
+    <category>launched</category>
+    <linkID>XT104381239</linkID>
+    <imageID>ZA104368652</imageID>
+  </record>
+  <record>
+    <title>Media insertion and playback in PowerPoint for iPad</title>
+    <description>PowerPoint for iPad can play back media in a presentation and you can insert videos and media to make your presentation more vibrant.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381902</imageID>
+  </record>
+  <record>
+    <title>Office 365 FastTrack Onboarding Service Benefit</title>
+    <description>Office 365 FastTrack OnboardingService BenefitComingfall 2014, FastTrack will become the Office 365 onboarding benefit includedwith new Office 365 purchases*.  As part of FastTrack, customers willreceive personalized assistance from a Microsoft onboarding expert ensuring theservice is ready to use.  FastTrack will provide tools for current stateassessments, identity management, domain configuration, and provisioning ofOffice 365 workloads including Exchange, SharePoint, Lync, Office 365 Pro Plus,and Yammer.  Best practices and guidance, coupled with direct remoteassistance, support, and engagement from Microsoft enable quick and efficientonboarding to Office 365.*minimum seat purchase of eligible SKUs apply.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID>ZA104381893</imageID>
+  </record>
+  <record>
+    <title>Office 365 navigation bar updates</title>
+    <description>A new persistent navigation bar across Office 365 services simplifies navigation and bringing system alerts, reminders and new mail notifications cross suite.  The updated navigation bar will dynamically scale to accommodate different display widths. If the display is wide enough, all menu items will be visible. If the display is narrow, the additional menu items will automatically be added to the more menu (ellipsis).  “My profile” controls will now be accessed via your photo which can be easily edited from any Office 365 service.</description>
+    <category>launched</category>
+    <linkID>XT104381258</linkID>
+    <imageID>ZA104381897</imageID>
+  </record>
+  <record>
+    <title>OneDrive for Android</title>
+    <description>With our new OneDrive app on Android you can now access both your personal and work accounts.  This is the first example of how we’re creating a single, unified OneDrive experience that holistically addresses what people, businesses, and IT need.  Because people are increasingly using the same devices and apps to get things done at work and at home, the ability to store and share files in the cloud is essential on both fronts.Users can now get to their personal or work files, easily share with family or coworkers, and ensure that they’re never without the files that matter to them – all from a single app.  Your personal and work accounts are kept separate, and OneDrive makes it clear when you’re accessing your work or personal files.  So you don’t need to worry about accidentally backing up your photos to your work account.</description>
+    <category>launched</category>
+    <linkID>XT104381240</linkID>
+    <imageID>ZA104381898</imageID>
+  </record>
+  <record>
+    <title>OneNote for Android tablet support</title>
+    <description>OneNote for Android features a new UI with the familiar Office Ribbon to help you be more productive on your Anrdoid devices. Additionaly, now you can take handwritten notes on your Android tablet with a stylus.</description>
+    <category>launched</category>
+    <linkID>XT104381243</linkID>
+    <imageID>ZA104381896</imageID>
+  </record>
+  <record>
+    <title>OneNote for iPad and iPhone 2.3 update</title>
+    <description>Adding top requested features to OneNote for iPad and iPhone: OneNote for iPad and iPhone will support inserting Office documents, PDFs, video/audio files, opening with a double-tap, and easy sharing with AirDrop. OneNote for iPad and iPhone will let you lock or unlock password-protected sections created in OneNote for Windows. OneNote for iPad and iPhone will be able to add a PDF printout to any page and then take notes on it in OneNote.  OneNote for iPad and iPhone will let you move pages and sections around your notebooks to get them organized the way you want. OneNote for Mac will let you share a page as email,  just email the page and the formatting will stay the same as in your notebook.  OneNote for iPad and iPhone will better copy and paste text from other apps while keeping the formatting you expect. Lastly, you will be able to create and sync notebooks from OneDrive for Business along with OneDrive.</description>
+    <category>launched</category>
+    <linkID>XT104381244</linkID>
+    <imageID>ZA104381899</imageID>
+  </record>
+  <record>
+    <title>OneNote for Mac support for OneDrive for Business</title>
+    <description>This update will enable OneNote for Mac to open, create, and edit Notebooks stored in OneDrive for Business and SharePoint Online.</description>
+    <category>launched</category>
+    <linkID>XT104381244</linkID>
+    <imageID>ZA104358113</imageID>
+  </record>
+  <record>
+    <title>Picture crop and reset in Office for iPad apps</title>
+    <description>Picture crop and reset in Office for iPad.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381859</imageID>
+  </record>
+  <record>
+    <title>PivotTable interactivity in Excel for iPad</title>
+    <description>PivotTable interactivity in Excel for iPad will allow opening an Excel spreadsheet that has a PivotTable,  selecting data, visualizing the results, and saving the PivotTable back.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381906</imageID>
+  </record>
+  <record>
+    <title>Power Map for Excel improvements</title>
+    <description>With filtering in Power Map, use familiar Excel filter controls to uncover more insights from your 3D geospatial visualizations. When using filters, you can adjust the amount of data shown, toggle between different categories or simply search and select specific values for more targeted analyses.Custom Maps extends all the features of Power Map so you can tell rich and interactive stories using any map type. Simply choose an image – like building floor maps, the human body, public transit routes, and system architectures - and Excel will guide you through transforming your data into visualizations that can be explored and shared.</description>
+    <category>launched</category>
+    <linkID>XT104381245</linkID>
+    <imageID>ZA104381892</imageID>
+  </record>
+  <record>
+    <title>Print improvements on Office for iPad</title>
+    <description>Improvements in workflow, reducing the number of steps, and connecting with ease to printers.  These improvements will be available for Word, Excel, and PowerPoint for iPad.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Propose New Time in Outlook Web App</title>
+    <description>Enables users to propose a new time in response to a calendar invite in Outlook Web App.</description>
+    <category>launched</category>
+    <linkID>XT104381247</linkID>
+    <imageID>ZA104381901</imageID>
+  </record>
+  <record>
+    <title>Provide feedback for Office for iPad</title>
+    <description>Easier ways to provide feedback for Office for iPad from within the app experience.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Quick navigation for tables in Excel for iPad</title>
+    <description>Quick navigation for tables helps you easily jump to a particular row, column or cell, especially when you have a large data set.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381871</imageID>
+  </record>
+  <record>
+    <title>REST API Batching for Apps for SharePoint</title>
+    <description>This feature allows support for $batch requests in SharePoint's OData REST services.  This allows apps to make multiple REST calls in a single round trip to the service.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Search SharePoint Sites and 10,000 Exchange Mailboxes in the SharePoint eDiscovery Center</title>
+    <description>New search options are available in the SharePoint eDiscovery Center. With eDiscovery queries you can now search all SharePoint sites and Exchange mailboxes and the sources list will show you the mailboxes and sites with the most hits. You can select search all Exchange mailboxes or distribution lists to search up to 10,000 mailboxes in a single query.</description>
+    <category>launched</category>
+    <linkID>XT104381248</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Send As PDF in Word for iPad</title>
+    <description>Send the document you're working on as a PDF via email on Word for iPad.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381904</imageID>
+  </record>
+  <record>
+    <title>Send as PDF on Excel for iPad</title>
+    <description>Send the spreadsheet you're working on as a PDF via email on Excel for iPad.</description>
+    <category>launched</category>
+    <linkID>XT104381197</linkID>
+    <imageID>ZA104381904</imageID>
+  </record>
+  <record>
+    <title>Service Communications API</title>
+    <description>This API provides programmatic access to Office 365 service health information and message center communications. The API can be accessed by both the Office 365 admin and Admin-on-behalf-of partner admin roles.</description>
+    <category>launched</category>
+    <linkID>XT104381251</linkID>
+    <imageID>ZA104368646</imageID>
+  </record>
+  <record>
+    <title>Shared computer activation for Office 365 ProPlus</title>
+    <description>Shared computer activation for Office 365 ProPlus will enable users to access Office 365 ProPlus clients from remote desktops (terminals) or shared physical kiosk PCs. It will allow for installation of Office 365 ProPlus on servers with the Remote Desktop Services role enabled. In this solution, activation of Office is performed as the user launches Office applications per Windows log in session. Activations from licensed users do not persist for subsequent users logging in - those users also need to validate their license state when they log in to the shared PC. Use of shared computer activation does not constitute one of a user's five installations on PCs or Macs.</description>
+    <category>launched</category>
+    <linkID>XT104381249</linkID>
+    <imageID>ZA104358121</imageID>
+  </record>
+  <record>
+    <title>SharePoint CSOM API improvements</title>
+    <description>Site provisioning and branding support through an Office AMS solution pack for SharePoint sites in SharePoint Online with the use of Apps for SharePoint.  Here is the full list of the additional CSOM APIs added:  Expose get and set of SPWeb.AlternateCssUrl via CSOM (.Net,  REST, JS),  Expose get and set of SPWeb.SiteLogoUrl via CSOM (.Net, REST,  JS),  Expose get and set of SPContentType.MobileNewFormUrl,  SPContentType.MobileDisplayFormUrl, and SPContentType.MobileEditFormUrl via CSOM (.Net, REST, JS).</description>
+    <category>launched</category>
+    <linkID>XT104381250</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Simplified user management</title>
+    <description>Manage your users more simply within the Office 365 Admin Center. The user profile detail panel has been updated with more relevant user details including user photo, job title and department name. Editing of user license assignments and user email addresses now conveniently happen in context with the user profile detail panel. Managing mailbox permissions now also happens within the Office 365 Admin Center.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID>ZA104381907</imageID>
+  </record>
+  <record>
+    <title>Single sign-on improvements for Yammer mobile apps</title>
+    <description>You can now easily use single sign-on with your Yammer mobile apps for Android, iOS and Windows Phone. We've improved the back-end sign-up and sign-in flow to provide a streamlined experience across devices. It now even supports 'no e-mail users' by using unique identifiers - when no e-mail address is assigned - to allow your front-line or field workforce to join and leverage your Yammer network.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>System Center Office 365 Management Pack</title>
+    <description>System Center Office 365 Management Pack will enable subscribers to monitor Office 365 service communications within System Center including, Subscription health, Service Health and incidents, Message Center communications.</description>
+    <category>launched</category>
+    <linkID>XT104381251</linkID>
+    <imageID>ZA104368654</imageID>
+  </record>
+  <record>
+    <title>Taxonomy refiners and faceted navigation for SharePoint Online Sites</title>
+    <description>The Taxonomy Refinement Panel Web Part will help site visitors filter content that’s displayed on a page. The filters are terms from the site’s navigation. Faceted navigation lets site visitors filter content that’s displayed on a page. The filters are category specific, so site visitors can use different filters depending on where they are on the site. Faceted navigation is configured in the term store. This means that content managers won’t have to create and maintain one unique page for each category.</description>
+    <category>launched</category>
+    <linkID>XT104381252</linkID>
+    <imageID>ZA104368657</imageID>
+  </record>
+  <record>
+    <title>Unlimited external sharing in SharePoint Online</title>
+    <description>We are announcing the removal of current limits on external users for all SharePoint Online plans. Specifically, the changes will be as follows. The external users limit for Office 365 Small Business and Small Business Premium will change from 500 to Unlimited. The external users limit for Office 365 Midsize Business and Office 365 Enterprise plans (including E1 – E4, A2-A4, G1-G4, and SharePoint Online Plan 1 and Plan 2) will change from 10,000 to Unlimited.</description>
+    <category>launched</category>
+    <linkID>XT104368643</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Updated groups management</title>
+    <description>Groups is now in its own menu item in the unified left navigation menu.The groups landing page shows a list of all your groups and their associated email address if applicable.The groups detail panel now enables admins to edit group membership and manage group attributes such as its name, description and email address as well as delete the group.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID>ZA104381895</imageID>
+  </record>
+  <record>
+    <title>Yammer mobile app support for creating, joining, and searching Groups</title>
+    <description>This update will enable Yammer mobile apps for Android and iOS to create, join, and search Yammer Groups.</description>
+    <category>launched</category>
+    <linkID></linkID>
+    <imageID>ZA104381910</imageID>
+  </record>
+  <record>
+    <title>Custom Themes</title>
+    <description>All customers will now have the capability to create custom themes for their end users.  This includes a clickable custom logo and customizable colors for top navigation bar, menu icons and text and the Office 365 logo.</description>
+    <category>rollingout</category>
+    <linkID>XT104381258</linkID>
+    <imageID>ZA104358173</imageID>
+  </record>
+  <record>
+    <title>Delve (Codename Oslo) &amp; Office Graph</title>
+    <description>Delve (Codename Oslo) is the first experience to use the power of the Office Graph. Delve is a new way to search and discover content across Office 365 based on personalized insights. Delve will be available as a Windows 8 app, on mobile devices, and integrated in the Office 365 web experience. Office Graph is an underlying technology and a suite-wide intelligence fabric that will help you discover content and make new connections. The Office Graph analyzes signals and applies machine learning. Personalized insights are built up for each user, based on their behavior, their relationships to content, topics and one another. Content and signals are captured from Exchange Online, SharePoint Online, and Yammer.</description>
+    <category>rollingout</category>
+    <linkID>XT104381253</linkID>
+    <imageID>ZA104368655</imageID>
+  </record>
+  <record>
+    <title>Document Conversations for OneDrive for Business and SharePoint Online</title>
+    <description>Document conversations enable people to share ideas and expertise around Office documents, images and videos, directly in the context of editing or reviewing. When opening a file stored in SharePoint Online or OneDrive for Business in your browser, the file is opened on the left and a contextual Yammer conversation is shown on the right, side by side. You can collapse and expand the Yammer pane as needed. You can start Yammer conversations around content, @mention coworkers on files, and publish to Yammer groups—either public or private. You can also view and participate in conversations outside your document, on your mobile device, in Microsoft Dynamics CRM or any app where a Yammer feed is embedded.</description>
+    <category>rollingout</category>
+    <linkID>XT104358095</linkID>
+    <imageID>ZA104358195</imageID>
+  </record>
+  <record>
+    <title>Exchange eDiscovery mailbox search limit increased to 10K Mailboxes</title>
+    <description>The speed of eDiscovery search queries against large numbers of mailboxes is improved by 10x and the reliability of these searches has also been improved. This allows the 5,000 mailboxes in a single query limit to be increased to 10,000.</description>
+    <category>rollingout</category>
+    <linkID>XT104381254</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Groups in Office 365 for Outlook Web App and OneDrive for Business</title>
+    <description>
+      Groups in Office 365 connects users with the colleagues, information and applications they need to get more done together. Groups is launching in stages, with the first set of experiences rollingout to Outlook Web App and OneDrive for Business. Groups are open by default to enhance discoverability and sharing, but users can also create private Groups for sensitive content.
+    </description>
+    <category>rollingout</category>
+    <linkID>XT104381255</linkID>
+    <imageID>ZA104381900</imageID>
+  </record>
+  <record>
+    <title>Increasing Recoverable Items Quota for Users on Hold in Exchange Online</title>
+    <description>By default, the recoverable items quota is set to 30 GB for all users. We are now increasing the Recoverable Items Quota to 100 GB for all users placed on In-Place Hold or Litigation Hold.</description>
+    <category>rollingout</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>MAPI over HTTP for Outlook 2013 and Exchange Online</title>
+    <description>MAPI over HTTP is a new transport used to connect Outlook and Exchange. It is the long term replacement for RPC over HTTP connectivity (commonly referred to as Outlook Anywhere). MAPI/HTTP removes the complexity of Outlook Anywhere’s dependency on the legacy RPC technology.</description>
+    <category>rollingout</category>
+    <linkID>XT104358099</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Microsoft Cloud Solution Provider program</title>
+    <description>The Microsoft Cloud Solution Provider program expands capabilities for cloud Partners, including the ability to directly provision customer subscriptions and provide one monthly bill for both Partner and Microsoft services</description>
+    <category>rollingout</category>
+    <linkID>XT104367946</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 365 Admin Center unified navigation</title>
+    <description>The horizontal sub-navigation menu will be integrated with the left navigation menu  in the Office 365 Admin Center. Admins can now preview all the sub-navigation menu items from the left navigation menu before selecting the desired menu item and loading the related web page. This will speed up the navigation experience by eliminating unnecessary web page loads.</description>
+    <category>rollingout</category>
+    <linkID></linkID>
+    <imageID>ZA104368648</imageID>
+  </record>
+  <record>
+    <title>Office App Store new market expansion</title>
+    <description>This feature will enable the Office App Store in new markets, including availability for Office 365 operated by 21Vianet.  The new market are, Russia, China, Taiwan, Hong Kong, Netherlands, Belgium, Italy, and Brazil.</description>
+    <category>rollingout</category>
+    <linkID>XT104381256</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Preserving DL Membership &amp; BCC for Exchange In-Place Hold</title>
+    <description>This update  will make DL membership &amp; BCC searchable for users placed on In-place Hold.</description>
+    <category>rollingout</category>
+    <linkID>XT104381246</linkID>
+    <imageID>ZA104358131</imageID>
+  </record>
+  <record>
+    <title>SharePoint Online encryption at rest</title>
+    <description>SharePoint Online Encryption at rest will provide BitLocker encryption by default on all customer document libraries, users' OneDrive for Business and site data - when they reside in the Office 365 datacenters. SharePoint Online and OneDrive for Business have always provide encryption in-transit. Now your content is secure be it in motion or at rest.</description>
+    <category>rollingout</category>
+    <linkID>XT104358079</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>SharePoint Online storage usage model</title>
+    <description>Administrators can now more easily manage SharePoint Online team sites' storage quota based on real usage, and are no longer required to set fixed storage allotments per site collection. If an admin opts-in to the storage usage model, by selecting "Auto" within the SharePoint Online Admin Center, every site collection will utilize storage from the broad tenant pooled storage and will continue to 'auto'-grow up to a maximum of 1TB per site collection.  If an admin chooses not to opt-in, and to manage storage "manually" per individually per site collection, they will now set usage caps instead of allocating fixed amounts.  Whether you select "Auto" or to "Manual," SharePoint Online site collection quota management becomes simpler by removing management overhead and/or 'loss of storage' that has been allocated but not used.</description>
+    <category>rollingout</category>
+    <linkID>XT104381257</linkID>
+    <imageID>ZA104368647</imageID>
+  </record>
+  <record>
+    <title>Office 365 Admin Service Settings</title>
+    <description>
+      Reason for cancelation:  The enhancements introduced did not deliver the improved administrative experience we had expected. We will continue innovating in this area to provide Office 365 admins with a better experience.
+      Service settings were simplified to surface the most commonly used settings. Some of the less commonly used and more advanced settings have been removed from the Office 365 Admin Service Settings and can be configured from their relevant service portals such as Exchange Admin Center.
+    </description>
+    <category>canceled</category>
+    <linkID></linkID>
+    <imageID>ZA104381905</imageID>
+  </record>
+  <record>
+    <title>User themes</title>
+    <description>Users can now personalize their Office 365 workspace by selecting from 22 predefined themes.The themes modify the color of the top navigation bar, menu text, Office 365 logo, the selection focus, and some of the text on the canvas as well as potentially adding a background image to the top navigation bar.</description>
+    <category>rollingout</category>
+    <linkID>XT104381258</linkID>
+    <imageID>ZA104381856</imageID>
+  </record>
+  <record>
+    <title>App launcher</title>
+    <description>The app launcher will provide a single point of access to all services available to a user via the persistent app launcher icon in the top left corner of the Office 365 navigation bar. Users will also have the ability to personalize the app launcher, pinning and un-pinning applications within the app launcher.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID>ZA104381854</imageID>
+  </record>
+  <record>
+    <title>Clutter for Outlook Web App</title>
+    <description>Clutter is a separate view in the inbox where lower priority email appear. These items are removed from the standard inbox view so that the user can focus on the higher priority messages in the inbox.</description>
+    <category>inprogress</category>
+    <linkID>XT104358077</linkID>
+    <imageID>ZA104358178</imageID>
+  </record>
+  <record>
+    <title>DirSync tool with password hash sync as backup for Federated Sign-in</title>
+    <description>Office 365 customers who use federated sign-in can now use DirSync with password hash sync as a backup in case there is a failure with any part of the on-premises identity provider. In case of failure you can reconfigure the Azure AD tenant from federated to standard in a matter of hours to enable sign-in.</description>
+    <category>inprogress</category>
+    <linkID>XT104358103</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>DKIM Outbound for Exchange Online Protection</title>
+    <description>Exchange Online Protection will begin supporting outbound validation of Domain Keys Identified Mail (DKIM; see DomainKeys Identified Mail Signatures). DKIM is a method of validating a digitally signed message that appears in the DKIM-Signature header in the message headers. It ties an email message to the organization responsible for the message.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Excel Online improvements</title>
+    <description>Support editing and refreshing of workbooks containing Power Views and inserting PivotTables.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Exchange Online Protection phishing protection</title>
+    <description>Admins will be able to add phishing levels similar to how they set up their spam levels</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Forms on SharePoint Lists</title>
+    <description>This feature will allow for in-browser list form customization on top of SharePoint lists and will allow for in-browser list item editing without having to go to a different view as well as adding and rearranging list columns in the custom view.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Improved User Interface with Card View for Yammer</title>
+    <description>Our next step in improving the user experience in Yammer is the introduction of Card View for conversations, making threads more visually appealing and easier to navigate and engage in the form of expanding cards. The Card View will be rollingout in My Feed, Group Feeds, Conversation Views, and Inbox Conversation Views.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>ODATA v4 support for SharePoint Online APIs</title>
+    <description>SharePoint APIs are adding support the OData v4 standard for all APIs.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 2013 client update to support passive authentication using SAML</title>
+    <description>Office 2013 rich client applications currently use the MS Sign-in Assistant to log into Office 365. This only supports the WS-Trust protocol and is not usable with any identity providers that require passive authentication with web page redirects such as WS-Federation and SAML/P. This feature is to enable Office rich client applications to work with third party Identity Providers and to work with the Windows Azure Multi-Factor Authentication implementation.</description>
+    <category>inprogress</category>
+    <linkID>XT104358086</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 365 Business</title>
+    <description>
+      A new Office 365 plan for businesses of up to 300 users. Includes the full Office
+      desktop applications - Outlook, Word, Excel, PowerPoint, OneNote and Publisher, with 1TB of OneDrive for Business cloud storage to access, edit and share your documents across your Windows PC, Mac, iPad, Windows tablet and smartphone.
+    </description>
+    <category>inprogress</category>
+    <linkID>XT104367947</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 365 Business Essentials</title>
+    <description>A new Office 365 plan for businesses of up to 300 users. Includes the core Office 365 cloud services – business class email and calendaring, Office Online, online meetings, IM, video conferencing, cloud storage and file sharing, Yammer and much more.</description>
+    <category>inprogress</category>
+    <linkID>XT104367947</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 365 Business Premium</title>
+    <description>
+      A new Office 365 plan for businesses of up to 300 users. Includes the full Office
+      desktop applications - Outlook, Word, Excel, PowerPoint, OneNote and Publisher, with 1TB of OneDrive for Business cloud storage to access, edit and share your documents across your Windows PC, Mac, iPad, Windows tablet and smartphone.  Also includes the core Office 365 cloud services – business class email and
+      calendaring, Office Online, online meetings, IM, video conferencing, Yammer and
+      much more.
+    </description>
+    <category>inprogress</category>
+    <linkID>XT104367947</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 365 Message Encryption one time passcode</title>
+    <description>With the one time passcode feature, Office 365 Message Encryption users will be able to choose whether they want to use a Microsoft account or a one time passcode to view their encrypted message.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office 365 Video</title>
+    <description>Office 365 Video is a secure, company-wide destination for video upload, sharing and discovery, and smooth playback across devices - all powered by Windows Azure Media Services.</description>
+    <category>inprogress</category>
+    <linkID>XT104358393</linkID>
+    <imageID>ZA104358111</imageID>
+  </record>
+  <record>
+    <title>Office App Store recommendation algorithm improvements</title>
+    <description>This update will improve the recommendations algorithm for the Office App Store to be more precise and more relevant in the apps recommendations that it presents to users.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office App Store removing sign-in requirement for free and trial apps</title>
+    <description>This update will remove the need for customers to sign-in when adding a free or trial app to their Office 365 experience.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office Online performance improvements</title>
+    <description>Office Online will increase the speed with which the Office desktop apps are launched from within Office Online.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Office Online support in Yammer</title>
+    <description>With Office Online support in Yammer, documents uploaded to Yammer can be viewed and edited with Office Online, directly in Yammer. This allows documents to be beautifully rendered with Office Online, enables co-authoring by different users simultaneously, and displays relevant Yammer conversations, right on your browser.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID>ZA104358195</imageID>
+  </record>
+  <record>
+    <title>OneDrive for Business filename support improvements</title>
+    <description>We’re adding support for file names that contain ‘%’ or ‘#’ characters. Previously these were blocked for upload to OneDrive for Business. Additionally for all other blocked characters in filenames, OneDrive for Business will warn the user of a problem with their filename and provide them with the opportunity to rename the file to continue the upload. Finally, OneDrive for business will support filenames up to 256 characters in length. Together these changes will help users and organizations more easily adopt OneDrive for Business.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>OneDrive for Business for Office 365 ProPlus subscription plans</title>
+    <description>
+      In April 2014, we made a set of announcements related to OneDrive for Business, one of which was the availability of 1TB of OneDrive for Business storage for all Office 365 ProPlus customers as part of their ProPlus subscriptions. Customers who purchase Office 365 ProPlus after December 1st 2014 will automatically get OneDrive for Business provisioned as part of their ProPlus subscription. We are still working on the rollout for existing Office 365 ProPlus customers and will share more specifics soon.
+    </description>
+    <category>inprogress</category>
+    <linkID>XT104367940</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>OneDrive for Business Sync for Mac</title>
+    <description>Mac OS X will get a standalone desktop sync client application that enables desktop syncing between a user's OneDrive for Business folder in Office 365 and his or her computer.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>PowerPoint, Excel, Word Online Apps for Office Performance Improvements</title>
+    <description>This feature will enhance the performance and telemetry of apps for Office in PowerPoint, Excel, and Word Online.  The improvements are specifically around extra-details activation, usage latency telemetry, and general performance improvements.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Pre-configured Apps for Office Preview for Word Online</title>
+    <description>This Preview feature will enabled some users to see pre-configured apps in the Word Online ribbon for better exposure and visibility of the apps in the Office interface.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Search all organizational mailboxes with eDiscovery in Exchange Online</title>
+    <description>Enable eDiscovery in Exchange Online to search all mailboxes for an entire Exchange organization at the same time. Currently only 5000 mailboxes can be searched at a time.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Search Refiners in Outlook Web App</title>
+    <description>Search refiners in Outlook Web App allow users to filter their search results faster. When a user types a new search query, a menu appears below the search bar with a list of options to refine the search results by sender, date, folder, and attachments.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID>ZA104358119</imageID>
+  </record>
+  <record>
+    <title>Search Suggestions in Outlook Web App</title>
+    <description>Search suggestions in Outlook Web App are recommended search terms that appear when a user starts typing a new search query. The recommendations are based on the user's mailbox content including the history of search results and keywords commonly found in email messages.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Send As Link to OneDrive for Business</title>
+    <description>Send as link to OneDrive for Business allows a user to email a link to a document in OneDrive for Business in place of a physical attachment in Outlook Web App. Similar to a physical attachment, the link appears in the attachment well as an icon with a cloud on the front.</description>
+    <category>inprogress</category>
+    <linkID>XT104358077</linkID>
+    <imageID>ZA104358120</imageID>
+  </record>
+  <record>
+    <title>SharePoint API partial file upload support</title>
+    <description>This feature will allow large files to be uploaded through the use of our SharePoint APIs in chunks.  This will allow the files to be uploaded in multiple transactions to avoid timeouts and provide more reliability to your large file uploads.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Simplified domain setup</title>
+    <description>Reducing the number of steps required to setup a domain with Office 365.  This will help new customers start using the service faster.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Simplified login between Yammer and Office 365</title>
+    <description>Office 365 users will be able to seamlessly access Yammer from their Office 365 navigation bar, providing immediate access to their existing Yammer account. Users will be able to authentic through Office 365 and toggle to Yammer without additional authentication. Office 365 users without existing Yammer accounts will be taken through a simplified sign up and verification flow</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Touch Design Enhancements for SharePoint Online and OneDrive for Business</title>
+    <description>Originally 'Touch Design' was built and designed to ensure a fast, consistent experience across your devices - providing access to OneDrive for Business no matter what mobile browser you use; finger-first touchability.Office 365 will expand Touch Design features and footprint to cover more of SharePoint Online, plus enhancements to the overall OneDrive for Business mobile Web experience. New features include:-          Touch Design for your Team Site homepage-          Touch Design for your Sites' document libraries, plus new capabilities for these libraries AND your OneDrive for Business (the ability to sort documents, create documents (Windows tablet and iPad only), create folders &amp; upload files).We continue to invest in the bringing you the best mobile experience across the Office 365 service. Look for more in this area in the future, too, as we expand even further to all sites beyond the main Team Site.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Unlimited storage for OneDrive for Business</title>
+    <description>
+      Moving forward, all Office 365 customers will get unlimited OneDrive storage at no additional cost. We will begin updating the First Release customers in 2015, aligned with our promise to provide ample notification for significant service changes.  In the meantime, get started using your 1 TB of storage today by backing up all those work files kicking around on your PC – with the knowledge that even more storage is on its way!
+
+    </description>
+    <category>inprogress</category>
+    <linkID>XT104387167</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Weather Bar in Outlook Web App</title>
+    <description>The calendar in Outlook Web App indicates the current local weather.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID>ZA104358127</imageID>
+  </record>
+  <record>
+    <title>Word Online pagination</title>
+    <description>Word Online is adding pagination so you know where the page breaks are in your document and the number of pages will appear in the status bar, similar to the desktop version of Word.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID>ZA104381908</imageID>
+  </record>
+  <record>
+    <title>Workload-specific admin roles</title>
+    <description>Workload-specific admin roles will provide more flexibility to organizations that want to structure admin access to Exchange Admin Center, SharePoint Admin Center, and Lync Admin Center. For example, an Exchange admin will no longer require Office 365 global admin rights to manage Exchange Online.</description>
+    <category>inprogress</category>
+    <linkID></linkID>
+    <imageID>ZA104381909</imageID>
+  </record>
+  <record>
+    <title>1 TB for OneDrive for Business</title>
+    <description>Offering 1TB storage to OneDrive for Business users.</description>
+    <category>previousreleases</category>
+    <linkID>XT104367940</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Application selection administration settings</title>
+    <description>Office 365 ProPlus provides thousands of configuration options via Group Policy and the Office Deployment Tool for Click-to-Run. Now administrators  can choose to exclude applications from the Office 365 ProPlus suite, such as Access or InfoPath. Updates to the Office Deployment Tool for Click-to-Run will enable administrators performing push deployments of Office 365 ProPlus to exclude one or more applications during the initial Office installation, or add/remove applications to an existing installation.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358093</linkID>
+    <imageID>ZA104358144</imageID>
+  </record>
+  <record>
+    <title>Document Collaboration in Outlook Web App</title>
+    <description>Enhanced document collaboration in Outlook Web App allows a user to open a document from email and edit the document side-by-side with the original conversation using the Office Web Apps. The user can then reply to the original conversation with an edited version of the document automatically attached to the response.  The document can either be physically attached to the original email or stored in OneDrive for Business.</description>
+    <category>previousreleases</category>
+    <linkID>XT104367941</linkID>
+    <imageID>ZA104358188</imageID>
+  </record>
+  <record>
+    <title>End User Access to Quarantine for Exchange Online Protection</title>
+    <description>End users can access their quarantined messages directly and release messages to their inbox. Previously, only admins had this capability.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358087</linkID>
+    <imageID>ZA104358202</imageID>
+  </record>
+  <record>
+    <title>Exchange Online Public Folder Scale Update</title>
+    <description>The limit of Exchange Online Public Folder count will be increased from 10,000 folders to 100,000 total folders. Full hierarchy sync has been improved to the point where it can scale linearly as folder count grows within the environment. There have also been storage optimizations which will provide better performance when accessing public folders.</description>
+    <category>previousreleases</category>
+    <linkID>XT104367942</linkID>
+    <imageID>ZA104368645</imageID>
+  </record>
+  <record>
+    <title>External Sharing administration settings</title>
+    <description>External collaboration settings have been consolidated into one place in the Office 365 Admin Center for admins to enable the access of their SharePoint sites and Exchange calendars with external organizations. In addition, admins can also enable their users to communicate with people outside of their organization using Lync.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358094</linkID>
+    <imageID>ZA104358209</imageID>
+  </record>
+  <record>
+    <title>First Release for Office 365</title>
+    <description>Office 365 continuously delivers product innovations – like new email or collaboration capabilities – as they become available. To help you best manage how you embrace new feature updates to your Office 365 subscription, we give you the choice to either follow our Standard Release process or opted into the First Release program for a select set of significant updates to the service.  First Release includes a selection of enhancements to the Office 365 user experience for SharePoint Online and Exchange Online. Tenants that opt into First Release will receive new qualifying feature update a minimum of two weeks before customers on Standard Release.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358080</linkID>
+    <imageID>ZA104381894</imageID>
+  </record>
+  <record>
+    <title>Generic Top Level Domains administration settings</title>
+    <description>Generic Top Level Domains (gTLD) can now be added directly from your Office 365 Admin Center.  Over 1,300 new gTLDs are now supported.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358082</linkID>
+    <imageID>ZA104358132</imageID>
+  </record>
+  <record>
+    <title>Lync for Mac update</title>
+    <description>Lync for Mac now supports Enhanced 911 (E911) functionality with location awareness.  Additional improvements for the user experience included dynamic selection of a video camera while in a meeting and better file/picture transfer in IM and desktop sharing</description>
+    <category>previousreleases</category>
+    <linkID>XT104358096</linkID>
+    <imageID>ZA104358109</imageID>
+  </record>
+  <record>
+    <title>Match Subdomains in Exchange Online Protection</title>
+    <description>The match subdomains feature enables you to send and receive emails on subdomains of a provisioned domain (a.k.a. Accepted Domain) in Office 365.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358087</linkID>
+    <imageID>ZA104358110</imageID>
+  </record>
+  <record>
+    <title>OneNote for Android for Nokia Store</title>
+    <description>OneNote for Android is releasing in the Nokia Store for Nokia X devices.</description>
+    <category>previousreleases</category>
+    <linkID>XT104367943</linkID>
+    <imageID>ZA104368650</imageID>
+  </record>
+  <record>
+    <title>OneNote for iOS 2.2.1 - iPhone update</title>
+    <description>Three updates: First, It makes OneNote for iPhone a standalone experience with the ability to create new notebooks and sections. This means that you can now create a notebook, share it with others, and get on the same page - all from the convenience of an iPhone. Second, It dramatically improves the look and feel of OneNote on iOS 7 making note taking and navigation of your notes much more fluid and efficient. Third, we've added Office Lens to OneNote for iPhone. Similar to Office Lens on OneNote for iPad, this popular feature turns your iPhone into a pocket scanner so you can use it to take pictures of things like receipts, or whiteboard notes. Then, with Office Lens you can trim, enhance and makes pictures more readable. Best thing is, images are automatically synced to OneNote, and if your picture includes printed text, OneNote can recognize the text with optical character recognition (OCR) so you can search for words in the image.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358090</linkID>
+    <imageID>ZA104358112</imageID>
+  </record>
+  <record>
+    <title>OS and Browser User Reports for Office 365</title>
+    <description>Know which devices and browsers your users are using.  The operating system and browser reports provide you with summary and user access views of the types of operating systems and browsers accessing your Office 365 environment.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358082</linkID>
+    <imageID>ZA104358153</imageID>
+  </record>
+  <record>
+    <title>OWA for Android Phone</title>
+    <description>A native mobile app on Android phones that offers the same email, calendar and contact functionality you get in Outlook Web App, but with additional capabilities that are only possible through native integration of the app with the device.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358097</linkID>
+    <imageID>ZA104358115</imageID>
+  </record>
+  <record>
+    <title>Power Map now available to Office 365 subscriptions that include Excel</title>
+    <description>Power Map for Excel is now available for all Office 365 subscriptions that include Excel.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358394</linkID>
+    <imageID>ZA104358116</imageID>
+  </record>
+  <record>
+    <title>Power View forecasting capabilities in Power BI for Office 365</title>
+    <description>In Power View, you can now apply predictive forecasting, and hindcasting, when visualizing and exploring your data. Forecasting in Power View utilizes built-in predictive forecasting models using exponential smoothing to automatically detect seasonality in the data to provide forecast results from a series of data. Explore forecast results by adjusting the desired confidence interval or by adjusting outlier data to see how they affect results. You can also hindcast to see how Power View would have predicted the present and recent past based on older data.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358081</linkID>
+    <imageID>ZA104358117</imageID>
+  </record>
+  <record>
+    <title>Proactive DNS Records Check administration settings</title>
+    <description>Customer DNS records are now automatically checked for potential issues.  If potential issues are identified, admins are notified and actions are proposed.  Subscribers with GoDaddy hosted domains have the option to have Office 365 automatically update the DNS records.  For all other DNS hosts, admins will be provided with the correct DNS records and instructions on how to correct them.  A confirmation screen will notify the admins once all issues are corrected.If custom DNS records are used in the tenant, admins are provided with the option to turn off the DNS records check to eliminate the error notifications.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358094</linkID>
+    <imageID>ZA104358118</imageID>
+  </record>
+  <record>
+    <title>Sign-In page branding for Office 365</title>
+    <description>The Office 365 sign-in page can be branded with the additional purchase of Microsoft Azure AD Premium subscription. This subscription includes Company Branding which can be used to customize the sign-in page for all applications including Office 365, and also the Azure Management portal and the Azure Access Panel page.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358098</linkID>
+    <imageID>ZA104358123</imageID>
+  </record>
+  <record>
+    <title>Simplified admin user interface for Office 365</title>
+    <description>Improves usability to enable admins to complete common admin tasks quickly.  Simplifications include a new user creation workflow with a single form, automatic license assignment, and confirmation page.  The user profile detail panel contains more user information including assigned license and alias email addresses.  Admins can optionally manually assign set passwords for new users.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358094</linkID>
+    <imageID>ZA104358124</imageID>
+  </record>
+  <record>
+    <title>Site folders in OneDrive for Business and SharePoint Online document libraries</title>
+    <description>Added a new Site Folders view that takes you directly to document libraries of sites you’re following.  Now you can get to sites you’re following fast, right from OneDrive for Business.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358092</linkID>
+    <imageID>ZA104358125</imageID>
+  </record>
+  <record>
+    <title>Smart Search for OneDrive for Business</title>
+    <description>The new OneDrive for Business search box is now smarter, with type-ahead features helping you find a document that might have been shared with you, or one that you tucked away several folders deep. You can also perform actions, like sharing these files, directly from the search results. Finding files and sharing them is even faster with the improved search box.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358092</linkID>
+    <imageID>ZA104358126</imageID>
+  </record>
+  <record>
+    <title>Subscription seat reduction</title>
+    <description>We are enabling customers to both increase and reduce seats licensed through the office 365 admin center where previously a phone call was required to reduce seats. An Office 365 billing admin can simply go to the billing page in the Office 365 admin center and choose the subscription. In the subscription details they can change the quantity of seats licensed. The license change is effective immediately. Note that reducing seats that were purchased with a term discount may be subject to an early termination fee. This is available for all annual subscriptions which are paid monthly and does not include government, academic, or charity subscriptions.</description>
+    <category>previousreleases</category>
+    <linkID>XT104381259</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Users &amp; Groups in Exchange Online Protection</title>
+    <description>Exchange Online Protection standalone and Exchange Enterprise CAL with Services subscribers can now directly manage recipients from within the Exchange admin center (EAC). This includes the ability to add, edit, or delete mail-enabled users (mail recipients who are internal to the organization) from the EAC and the ability to use mail enabled users as part of filtering policies and rules. Learn more. In addition, You can use Exchange Online Protection (EOP) to create mail-enabled groups for an Exchange organization. You can also use EOP to define or update group properties that specify membership, email addresses, and other aspects of distribution groups. You can create distribution groups and security groups, depending on your needs.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358087</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Yammer Enterprise now included in Office 365 Midsize Business and Education plans</title>
+    <description>Yammer Enterprise now included in Office 365 Midsize Business and Education plans, including Office 365 Midsize Business, Office 365 Education A2, Office 365 Education A3, Office 365 Education A4.</description>
+    <category>previousreleases</category>
+    <linkID>XT104367945</linkID>
+    <imageID></imageID>
+  </record>
+  <record>
+    <title>Yammer localization expands to 28 languages</title>
+    <description>The Yammer web experience now supports a total of 28 languages. You can easily select your preferred primary language from the language picker under Company Resources in your home page, under Access Options in a group, or in the footer of every page that doesn’t support infinite scrolling, default is “English (US)”.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358104</linkID>
+    <imageID>ZA104358128</imageID>
+  </record>
+  <record>
+    <title>Yammer mobile apps support 12 languages  and inline message translation</title>
+    <description>Yammer mobile apps now support 12 languages across iOS, Android and Windows Yammer Notifier. We are also taking mobile localization a step further, with inline message translation: a translate button will appear below the initial post. Clicking translate will instantly convert the entire conversation, including related responses, into the user’s default language.</description>
+    <category>previousreleases</category>
+    <linkID>XT104358104</linkID>
+    <imageID>ZA104358129</imageID>
+  </record>
+</data-set>
